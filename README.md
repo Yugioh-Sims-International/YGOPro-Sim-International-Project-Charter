@@ -1,7 +1,7 @@
 # YGOPro-Sim-International-Project-Charter
 + The core of Ygopro International comes from the desire tO improve the user experience and give the enduser what they want.
 
-+ Actual Rules
++ **Actual Rules****
 
 + Everyone else is equal.
 
@@ -21,10 +21,10 @@
 
 + Everything is open Source
 
-+ Goals
++ **Goals****
 
 
-+ Articles
+  **Articles****
 
 + http://forum.ygopro.us/index.php?/forum/17-the-cathedral-and-the-bazaar/
 
