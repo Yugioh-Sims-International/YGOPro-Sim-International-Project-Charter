@@ -29,3 +29,9 @@
 + http://forum.ygopro.us/index.php?/forum/17-the-cathedral-and-the-bazaar/
 
 + https://simpleprogrammer.com/2013/09/09/dark-side-software-development-one-talks/
+
++ https://medium.com/@Lemuria/ugly-truths-of-game-development-fd42509059fe#.bz6c2spa3
+
++ http://www.gamasutra.com/view/news/287062/Video_Grappling_with_the_dark_side_of_game_development.php
+
++ http://david.fancyfishgames.com/2012/12/the-dark-side-of-indie-game-dev.html
