@@ -35,3 +35,5 @@
 + http://www.gamasutra.com/view/news/287062/Video_Grappling_with_the_dark_side_of_game_development.php
 
 + http://david.fancyfishgames.com/2012/12/the-dark-side-of-indie-game-dev.html
+
++ https://www.develop-online.net/analysis/72-tips-on-starting-your-own-game-studio/0200570
